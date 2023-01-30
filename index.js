@@ -12,12 +12,6 @@ findIndex 사용 ✅
 push 사용 ✅
 */
 
-
-
-
-
-
-
 let arr = [];
 for (let i = 1; i < 101; i++) {
     arr.push(i)
@@ -29,4 +23,3 @@ arr.push(200);
 console.log(arr);
 console.log(find);
 console.log(result);
-
